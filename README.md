@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Anton 👋<br>STUDYING: Data Science @ Wilfrid Laurier University<br>ASPIRING: AI · Machine Learning · Data Engineer
+Hi, I'm Anton 👋<br>STUDYING: ............................................................................................................ Data Science @ Wilfrid Laurier University<br>ASPIRING: ........................................................................................................... AI · Machine Learning · Data Engineer
 
 
 ## 🌐 Socials:
