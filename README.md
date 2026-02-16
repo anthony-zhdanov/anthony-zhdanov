@@ -1,6 +1,6 @@
 # 💫 About Me:
-Hi, I'm Anton 👋<br>**_STUDYING_**: . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Data Science @ Wilfrid Laurier University
-<br>**_ASPIRING_**: . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . AI · Machine Learning · Data Engineer
+Hi, I'm Anton 👋<br>**_STUDYING_**: . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Data Science @ Wilfrid Laurier University
+<br>**_ASPIRING_**: . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . AI · Machine Learning · Data Engineer
 
 
 ## 🌐 Socials:
