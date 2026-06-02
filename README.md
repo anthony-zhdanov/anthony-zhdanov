@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Anton 👋<br>**_STUDYING_**: . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . CS & Math @ Wilfrid Laurier University
+Hi, I'm Anton 👋<br>**_STUDYING_**: . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . CS & Math @ Wilfrid Laurier University
 <br>**_ASPIRING_**: . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . AI · Machine Learning · Data Engineer
 
 
